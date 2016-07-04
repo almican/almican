@@ -1,0 +1,22 @@
+{
+  "name": "iconium",
+  "version": "1.0.0-alpha.0",
+  "description": "Colored Vector Icons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanreisa/iconium.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "Pixely (https://pixely.jp/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanreisa/iconium/issues"
+  },
+  "homepage": "https://github.com/kanreisa/iconium#readme"
+}
