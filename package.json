@@ -1,6 +1,6 @@
 {
   "name": "pixely-icons",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Colored Vector Icons.",
   "main": "index.js",
   "scripts": {
