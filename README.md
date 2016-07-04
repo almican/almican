@@ -1,18 +1,19 @@
-# iconium
+# Pixely Icons (iconium)
 Colored Vector Icons.
+Designed for minimum 16x16 pixels.
 
-Icon                     | Name
------------------------- | ----
-![](src/check.svg)       | check
-![](src/disc.svg)        | disc
-![](src/earth.svg)       | earth
-![](src/floppy-disk.svg) | floppy-disk
-![](src/hard-disk.svg)   | hard-disk
-![](src/help.svg)        | help
-![](src/internet.svg)    | internet
-![](src/plus.svg)        | plus
-![](src/power.svg)       | power
-![](src/reflect.svg)     | reflect
-![](src/reload.svg)      | reload
-![](src/save.svg)        | save
-![](src/server.svg)      | server
+Icon                                                                    | Name
+----------------------------------------------------------------------- | ----
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/check.svg)       | check
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/disc.svg)        | disc
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/earth.svg)       | earth
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/floppy-disk.svg) | floppy-disk
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/hard-disk.svg)   | hard-disk
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/help.svg)        | help
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/internet.svg)    | internet
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/plus.svg)        | plus
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/power.svg)       | power
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/reflect.svg)     | reflect
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/reload.svg)      | reload
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/save.svg)        | save
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/server.svg)      | server
