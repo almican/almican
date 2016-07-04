@@ -11,7 +11,7 @@ Icon                                                                     | Name
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/hard-disk.svg)    | hard-disk
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/help.svg)         | help
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/internet.svg)     | internet
-![](https://cdn.rawgit.com/kanreisa/iconium/master/src/src/passport.svg) | passport
+![](https://cdn.rawgit.com/kanreisa/iconium/master/src/passport.svg) | passport
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/plus.svg)         | plus
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/power.svg)        | power
 ![](https://cdn.rawgit.com/kanreisa/iconium/master/src/reflect.svg)      | reflect
